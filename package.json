@@ -55,6 +55,7 @@
     "webpack-cli": "^3.3.6"
   },
   "devDependencies": {
+    "autoprefixer": "^9.6.1",
     "dotenv": "^8.0.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
