@@ -27,7 +27,7 @@ module.exports =  (env, argv) => ({
             {
                 loader: 'babel-loader',
                 test: /\.js$/,
-                exclude: /node_moduels/
+                exclude: /node_modules/
             },
             
             {
