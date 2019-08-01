@@ -1,0 +1,7 @@
+node_modules/
+public/js/
+public/css/
+src/playground/
+src/tests/
+.env.test
+.env.development
