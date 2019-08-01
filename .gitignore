@@ -5,3 +5,5 @@ src/playground/
 src/tests/
 .env.test
 .env.development
+package-lock.json
+yarn.lock
